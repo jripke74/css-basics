@@ -1,9 +1,9 @@
 /* 
 Challenge:
-Re-design the cookie widget!
-PS: Make sure you change ALL of the listed CSS properties.
+Select the img tag and set the width
+of the Google logo to be 300px.
 */
 
-body {
-  background-color: red;
+input {
+  width: 400px;
 }
