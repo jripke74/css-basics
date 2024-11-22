@@ -1,21 +1,22 @@
-body {
-  margin: 0;
+/* 
+Challenge:
+Add some space between the logo
+and the search field.
+
+What are the two different ways
+we can do this with margins
+*/
+
+.main {
+  margin-top: 100px;
 }
 
-.red {
-  background: #c71226;
-  height: 100px;
-  /* Challenge:
-  Add 100px of margin on the bottom of the red box. */
-  margin-bottom: 100px;
+.logo-img {
+  display: block;
+  width: 300px;
 }
 
-.blue {
-  background: #0d1b88;
-  height: 100px;
-}
-
-.green {
-  background: #397327;
-  height: 100px;
+.search-input {
+  display: block;
+  width: 100px;
 }
